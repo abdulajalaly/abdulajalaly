@@ -1,4 +1,4 @@
-# Hi, I'm Abdul 👋
+# Hi, I'm Abdullah 👋
 
 I'm an aspiring entrepreneur building at the intersection of **Finance** and **AI**.
 I enjoy turning complex ideas into practical products that help people make better decisions.
